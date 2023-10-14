@@ -1,0 +1,16 @@
+
+*{  
+    margin: 0;
+    padding: 0;
+    transition: all 0.2s linear;
+}
+
+::selection {
+    background: rgba(184, 237, 226, 0.27); 
+}
+
+
+
+
+  
+  
